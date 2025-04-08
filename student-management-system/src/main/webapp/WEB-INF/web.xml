@@ -8,7 +8,7 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>helloServlet</servlet-name>
-    <servlet-class>com.kodtodya.practice.web.servlet.HelloServlet</servlet-class>
+    <servlet-class>com.vaishnavi.practice.servlet.servlet.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>helloServlet</servlet-name>
@@ -16,7 +16,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>studentController</servlet-name>
-    <servlet-class>com.kodtodya.practice.web.controller.StudentController</servlet-class>
+    <servlet-class>com.vaishnavi.practice.servlet.controller.StudentController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>studentController</servlet-name>
